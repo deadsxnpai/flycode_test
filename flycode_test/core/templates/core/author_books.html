@@ -36,10 +36,11 @@
       
         <main main id="swup" class="transition-fade">
           
-          <h1>{{ author.name }}:</h1>
+          <h1>{{ author.name }}:</h1><hr>
           <ul class="list-group">
               {% for book in books %}
-              <li class="list-group-item">{{ book.title }}</li>
+              <h2 class="list-group-item">{{ book.title }}</h2>
+              <a href="{% url 'book_detail' book.id %}" class="w-100 btn btn-lg btn-secondary fw-bold border-white bg-white">Посмотреть книгу</a>
             {% endfor %}
           </ul>
         </main>
