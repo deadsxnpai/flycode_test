@@ -25,6 +25,8 @@ e. Удаление книги<br><hr>
 b. Изменение комментария<br>
 с. Удаление комментария.<br><hr>
 
+База данных PostgreSQL<br><hr>
+
 ![Иллюстрация к проекту](https://github.com/deadsxnpai/flycode_test/raw/master/Screenshots/1.png)<hr>
 ![Иллюстрация к проекту](https://github.com/deadsxnpai/flycode_test/raw/master/Screenshots/2.png)<hr>
 ![Иллюстрация к проекту](https://github.com/deadsxnpai/flycode_test/raw/master/Screenshots/3.png)<hr>
