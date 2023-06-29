@@ -26,3 +26,15 @@ b. Изменение комментария<br>
 с. Удаление комментария.<br><hr>
 
 ![Иллюстрация к проекту](https://github.com/deadsxnpai/flycode_test/raw/master/Screenshots/1.png)
+![Иллюстрация к проекту](https://github.com/deadsxnpai/flycode_test/raw/master/Screenshots/2.png)
+![Иллюстрация к проекту](https://github.com/deadsxnpai/flycode_test/raw/master/Screenshots/3.png)
+![Иллюстрация к проекту](https://github.com/deadsxnpai/flycode_test/raw/master/Screenshots/4.png)
+![Иллюстрация к проекту](https://github.com/deadsxnpai/flycode_test/raw/master/Screenshots/5.png)
+![Иллюстрация к проекту](https://github.com/deadsxnpai/flycode_test/raw/master/Screenshots/6.png)
+![Иллюстрация к проекту](https://github.com/deadsxnpai/flycode_test/raw/master/Screenshots/7.png)
+![Иллюстрация к проекту](https://github.com/deadsxnpai/flycode_test/raw/master/Screenshots/8.png)
+![Иллюстрация к проекту](https://github.com/deadsxnpai/flycode_test/raw/master/Screenshots/9.png)
+![Иллюстрация к проекту](https://github.com/deadsxnpai/flycode_test/raw/master/Screenshots/10.png)
+![Иллюстрация к проекту](https://github.com/deadsxnpai/flycode_test/raw/master/Screenshots/11.png)
+![Иллюстрация к проекту](https://github.com/deadsxnpai/flycode_test/raw/master/Screenshots/12.png)
+![Иллюстрация к проекту](https://github.com/deadsxnpai/flycode_test/raw/master/Screenshots/13.png)
